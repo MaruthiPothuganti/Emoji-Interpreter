@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  width: 60%;
+  height: 30px;
+  padding: 10px;
+  border: dashed;
+  outline: 0px;
+}
+
+.App {
+  height: 30%;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  font-size: 40px;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+}
+
+li {
+  margin-left: 10px;
+  text-align: center;
+  cursor: pointer;
+}
